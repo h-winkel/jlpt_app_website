@@ -1,0 +1,14 @@
+title: Benkyo Buddy
+description: Your Japanese learning companion
+url: "https://benkyobuddy.com"
+baseurl: ""
+
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
